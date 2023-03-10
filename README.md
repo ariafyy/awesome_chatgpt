@@ -4,8 +4,8 @@ List all awesome OpenAI's ChatGPT relatives. this repos is used for studying llm
 
 ## official
 * [official👍 cookbook](https://github.com/openai/openai-cookbook) 
-* [official👍 Quickstart - Python](https://github.com/openai/openai-quickstart-python)
-* [official👍 Paper](https://github.com/openai/openai-python)
+* [official👍 quickstart - Python](https://github.com/openai/openai-quickstart-python)
+* [official👍 openai-python](https://github.com/openai/openai-python)
  
 
 ## education slides
