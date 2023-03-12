@@ -24,13 +24,14 @@ List all awesome OpenAI's ChatGPT relatives. this repos is used for studying llm
 
 ## interesting repos
 -[ChatGPT-MBTI code] (https://github.com/Kali-Hac/ChatGPT-MBTI)
--[ChatGPT-MBTI paper :Can ChatGPT Assess Human Personalities? A General Evaluation Framework](https://arxiv.org/abs/2303.01248v1)
+-[ChatGPT-MBTI paper :Can ChatGPT Assess Human Personalities? A General Evaluation Framework] (https://arxiv.org/abs/2303.01248v1)
 
 
 ## repos
 
 一分钟总结arxiv和本地论文的python工具 
+
 -[ChatPaper code] (https://github.com/kaixindelele/ChatPaper)
 
-- [pandaGPT](https://www.pandagpt.io/)
-- [chatgpt.ddiu](chatgpt.ddiu.me)
+- [pandaGPT] (https://www.pandagpt.io/)
+- [chatgpt.ddiu] (chatgpt.ddiu.me)
